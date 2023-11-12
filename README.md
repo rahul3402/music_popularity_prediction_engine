@@ -1,6 +1,6 @@
 # Music Popularity Prediction Engine
 
-## Trained convolutional neural networks with spectrograms extracted from songs to predict popularity metrics across Youtube and Spotify for new songs
+Trained convolutional neural networks with spectrograms extracted from songs to predict popularity metrics across Youtube and Spotify for new songs
 
 
 ## How does it work?
