@@ -1,0 +1,1275 @@
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daya - Insomnia.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/FIFTY FIFTY - Cupid - Twin Ver..mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Matchbox Twenty - Push.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Third Eye Blind - Semi-Charmed Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Snoop Dogg, Wiz Khalifa - Young, Wild & Free (feat. Bruno Mars).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Simple Plan - Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nickelback - How You Remind Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lukas Graham - Love Someone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Paramore - The Only Exception.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay, BTS - My Universe.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Manuel Turizo - El Merengue.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Miracle (with Ellie Goulding).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd, Ariana Grande - Die For You - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/All Time Low - Modern Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/JVKE - golden hour.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dean Lewis - Be Alright.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Flowers.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Like A Saviour.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tiësto, Ava Max - The Motto.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hot Chelle Rae - Don't Say Goodnight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - I Ain't Worried.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Timbaland, Justin Timberlake, Nelly Furtado - Give It To Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/George Ezra - Budapest.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/George Ezra - Green Green Grass.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - One Of Us.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/SZA - Kill Bill.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Timbaland, Keri Hilson, D.O.E. - The Way I Are.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Metro Boomin - Creepin' (with The Weeknd & 21 Savage).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Backstreet Boys - Quit Playing Games (With My Heart).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Backstreet Boys - Show Me the Meaning of Being Lonely.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Backstreet Boys - As Long as You Love Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Backstreet Boys - Everybody (Backstreet's Back) - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - SexyBack (feat. Timbaland).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Niall Horan - This Town.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Nas X - THATS WHAT I WANT.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gnarls Barkley - Crazy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Cannibal.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem - Mockingbird.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - My Humps.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Weapons.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Oliver Tree, Robin Schulz - Miss You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Caramella Girls - Caramelldansen.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/GAYLE - fmk (with blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Yachty - Poland.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AURORA - Cure For Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/All Time Low - Sleepwalking.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/6ix9ine, Nicki Minaj, Murda Beatz - FEFE.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Nas X - STAR WALKIN' (League of Legends Worlds Anthem).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown - Under The Influence.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Celestial.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas, Shakira, David Guetta - DON'T YOU WORRY.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Regard, Troye Sivan, Tate McRae - You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tate McRae - she's all i wanna be.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Bebe Rexha - I'm Good (Blue).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Unholy (feat. Kim Petras).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/5 Seconds of Summer - Bad Omens.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - Charlie Be Quiet!.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Goo Goo Dolls - Iris.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - Don't I Make It Look Easy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Million Dollar Baby.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Love Of Mine - Night Visions Demo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicky Youre, dazy - Sunroof.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - 29.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lukas Graham - Wish You Were Here (feat. Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Maren Morris, BEAUZ - Make You Say.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alesso - Words (feat. Zara Larsson).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Bam Bam (feat. Ed Sheeran).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jennifer Lopez - Love Don't Cost a Thing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Elley Duhé - MIDDLE OF THE NIGHT.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Easy Lover (feat. Big Sean).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/GAYLE - abcdefu.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Trevor Daniel - Falling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - Left and Right (Feat. Jung Kook of BTS).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Melanie Martinez - Play Date.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lizzo - About Damn Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Conan Gray - Maniac.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Machine Gun Kelly - my ex's best friend (with blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jennifer Lopez - Let's Get Loud.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Talking to the Moon.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We - How Do You Love Somebody.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Leona Lewis - Better in Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daddy Yankee - Gasolina.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calum Scott, Leona Lewis - You Are The Reason - Duet Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Harry Styles - As It Was.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Potion (with Dua Lipa & Young Thug).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fergie - London Bridge.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fergie - L.A.LOVE (la la) [feat. YG].mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fergie - Big Girls Don't Cry (Personal).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv - All 4 Nothing (I'm So In Love).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Maybe You’re The Problem.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - ...Baby One More Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Out of Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Machine Gun Kelly - emo girl (feat. WILLOW).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - That's Hilarious.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Enchanted.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - iPad.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nelly Furtado - I'm Like A Bird.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nelly Furtado, Timbaland - Promiscuous.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nelly Furtado - Say It Right.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tyga, Doja Cat - Freaky Deaky.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo - Dancing Feet (feat. DNCE).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/KSI - Holiday.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - The Joker And The Queen (feat. Taylor Swift).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem - Without Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem - Venom - Music From The Motion Picture.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Disclosure, Sam Smith - Omen - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid, Disclosure - Know Your Worth.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - High.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Harleys In Hawaii.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alesso - When I’m Gone (with Katy Perry).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - Light Switch.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - It'll Be Okay.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Enemy (with JID) - from the series Arcane League of Legends.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Sacrifice.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy, A$AP Rocky, Cardi B - No Limit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy - Still Be Friends (feat. Tory Lanez & Tyga).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - Title.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Love It When You Hate Me (feat. blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, Why Don't We - Don’t Wake Me Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flume, Tove Lo - Say It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone - One Right Now (with The Weeknd).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Elton John, Dua Lipa - Cold Heart - PNAU Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Farruko - Pepas.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Doja Cat - Woman.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/5 Seconds of Summer - 2011.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Head Above Water.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Bite Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Swedish House Mafia - Moth To A Flame (with The Weeknd).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Arthur - September.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit, Mabel - Tick Tock (feat. 24kGoldn).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tiësto, KAROL G - Don't Be Shy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Overpass Graffiti.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes, Camila Cabello - I Know What You Did Last Summer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Never Be the Same.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - My Oh My (feat. DaBaby).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Don't Go Yet.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Conan Gray - Heather.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - When I Look At You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sean Paul, Sia - Dynamite.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Nas X - MONTERO (Call Me By Your Name).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Nas X - INDUSTRY BABY (feat. Jack Harlow).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Joel Corry, Jax Jones - OUT OUT (feat. Charli XCX & Saweetie).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We - Love Back.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shouse - Love Tonight (David Guetta Remix Edit).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Martin Garrix, Brooks - Like I Do.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Skylar Grey - Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom- Let There Be Carnage.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alesso, Marshmello - Chasing Stars (feat. James Bay).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello - Leave Before You Love Me (with Jonas Brothers).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Céline Dion - My Heart Will Go On - Love Theme from 'Titanic'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy - Breakdown (feat. Demi Lovato).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Shivers.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX - Good Ones.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Doja Cat - Need to Know.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Summer of Love (Shawn Mendes & Tainy).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Anne-Marie, Niall Horan - Our Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Take My Breath - Single Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Troye Sivan - Strawberries & Cigarettes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/3 Doors Down - Here Without You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jordin Sparks - One Step At a Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Calling - Wherever You Will Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Blunt - You're Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - pov.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nathan Dawe - Lighter (feat. KSI).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Anne-Marie, KSI, Digital Farm Animals - Don't Play.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/blackbear - idfc.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/blackbear - do re mi.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Kid LAROI - STAY (with Justin Bieber).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Billie Eilish - Your Power.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Doja Cat - Kiss Me More (feat. SZA).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Doja Cat, The Weeknd - You Right.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Rita Ora - Carry On (from the Original Motion Picture 'POKÉMON Detective Pikachu').mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Beyoncé - Irreplaceable.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Bad Habits.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BTS - Butter.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Emblem3 - Chloe (You're the One I Want).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown - With You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - The Climb.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Plain White T's - 1, 2, 3, 4.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mariah Carey - Obsessed.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - Mad.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Neon Trees - Animal.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/3OH!3, Kesha - My First Kiss (feat. Ke$ha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Archuleta - Crush.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Won't Go Home Without You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Lost.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Echo (feat. blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Evanescence - My Immortal.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Electric - Pokemon 25 Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Olivia Rodrigo - good 4 u.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Olivia Rodrigo - deja vu.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - Sacrifice.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tiësto - The Business.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Met Him Last Night (feat. Ariana Grande).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Billie Eilish - Therefore I Am.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Save Your Tears.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Save Your Tears (with Ariana Grande) (Remix).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Night Changes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Masked Wolf - Astronaut In The Ocean.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Sia - Let's Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Joel Corry, RAYE, David Guetta - BED.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Arthur - Medicine.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars, Anderson .Paak, Silk Sonic - Leave The Door Open.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Anyone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Hold On.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - As I Am (feat. Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Beautiful Mistakes (feat. Megan Thee Stallion).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AJ Mitchell - Slow Dance (feat. Ava Max).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa - We're Good.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia, David Guetta - Floating Through Space.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - 34+35.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - Suit & Tie (feat. JAY Z) (feat. Jay-Z) - [Radio Edit].mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/salem ilese - Mad at Disney.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Olivia Rodrigo - drivers license.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Monster (Shawn Mendes & Justin Bieber).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cardi B, Bad Bunny, J Balvin - I Like It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Resilient.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Still Falling For You - From 'Bridget Jones's Baby'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kane Brown - Be Like That - feat. Swae Lee & Khalid.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cardi B - WAP (feat. Megan Thee Stallion).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/All Time Low - Monsters (feat. blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Imagine Dragons - Born To Be Yours.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/24kGoldn - Mood (feat. iann dior).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/All Time Low - Monsters (feat. Demi Lovato and blackbear).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shania Twain - I'm Gonna Getcha Good! - Red Single Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Jessie Reyez - Promises (with Sam Smith).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Fire On Fire.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Midnight Sky.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ozuna, Doja Cat, Sia - Del Mar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Together.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/J Balvin, Dua Lipa, Bad Bunny - UN DIA (ONE DAY) (Feat. Tainy).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - In Your Eyes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Lonely (with benny blanco).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd - Inside Out (feat. Griff).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tate McRae - you broke me first.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - positions.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Imanbek - Too Much (feat. Usher).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Westlife - My Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Wonder.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Demi Lovato - OK Not To Be OK.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa - Levitating (feat. DaBaby).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AFROJACK - Take Over Control (feat. Eva Simons) - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We - Fallin’ (Adrenaline).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd - Good Thing (with Kehlani).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Jasmine Thompson - Funny.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BTS - Dynamite.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/JC Stewart - Lying That You Love Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Speak Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Over Now (with The Weeknd).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello - Be Kind (with Halsey).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Kings & Queens.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Salt.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Nobody's Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jawsh 685, Jason Derulo - Savage Love (Laxed - Siren Beat).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sugarland - Stuck Like Glue.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa - Break My Heart.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Slide Away.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Daisies.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Rain On Me (with Ariana Grande).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Brothers - What A Man Gotta Do.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rita Ora - Anywhere.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - You Can't Stop The Girl (From Disney's 'Maleficent- Mistress of Evil').mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Travis Scott - SICKO MODE.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - I’m Ready (with Demi Lovato).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis - Rich Boy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - You Need To Calm Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Bad Reputation (feat. Joe Janiak).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Heaven.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Blueface - Thotiana.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/SZA, Game of Thrones - Power is Power (feat. The Weeknd & Travis Scott).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Perfect Illusion.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gwen Stefani, Akon - The Sweet Escape.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - Cry Me a River.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - Call You Mine (feat. Bebe Rexha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Time Rush - Elevate.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/YUNGBLUD - 11 Minutes (with Halsey feat. Travis Barker).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid - Saturday Nights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - What Lovers Do (feat. SZA).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Soulja Boy, Sammie - Kiss Me Thru The Phone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix, Troye Sivan - There for You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Party For One.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zara Larsson - Ruin My Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Can We Pretend (feat. Cash Cash).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zara Larsson - Don't Worry Bout Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We, Macklemore - I Don't Belong In This Club.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Thirty Seconds To Mars - Dangerous Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii, Agnes, Vargas & Lagola - Tough Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix - Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - I Don't Care (with Justin Bieber).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Brothers - Sucker.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - Last Hurrah.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bag Raiders - Shooting Stars.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - If I Can't Have You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - So Am I.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We - Big Plans.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kanye West - I Love It (& Lil Pump).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lil Nas X - Old Town Road (feat. Billy Ray Cyrus) - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker, Sabrina Carpenter, Farruko - On My Way.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/SHAUN - Way Back Home (feat. Conor Maynard) - Sam Feldt Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Giant (with Rag'n'Bone Man).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DEV, Enrique Iglesias - Naked.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - What Goes Around...Comes Around - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BLACKPINK - Kill This Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid, Disclosure - Talk.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - ...Ready For It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nico & Vinz - That's How You Know (feat. Kid Ink & Bebe Rexha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Perri - A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga- Breaking Dawn Soundtrack.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Parson James - Stole the Show.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Winona Oak - Hope.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii, Aloe Blacc - SOS.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BLACKPINK - DDU-DU DDU-DU.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Kelsea Ballerini - This Feeling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, 5 Seconds of Summer - Who Do You Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Natural.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Eraser.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - I See Fire.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Photograph.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Auli'i Cravalho - How Far I'll Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Evanescence - Bring Me To Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv, Troye Sivan - i'm so tired....mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga, Bradley Cooper - Shallow.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Sunday Morning.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - NASA.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - bad idea.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - bloodline.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Thinking out Loud.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Seeb, Bastille - Grip.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Rich Love (with Seeb).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Thinking Of You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Phoebe Ryan - All We Know.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Sing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Don't.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - Not a Bad Thing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Catch My Breath.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Usher - More - RedOne Jimmy Joker Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - You Da One.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, David Guetta - Right Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Adore You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - 7 rings.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Katy Perry - 365.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello - Ritual (feat. Wrabel).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Idina Menzel - Let It Go - From 'Frozen'Soundtrack Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cardi B, Bruno Mars - Please Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Bay - Let It Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Billie Eilish - lovely (with Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, Liam Payne, Lennon Stella - Polaroid.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Close To Me (with Diplo) (feat. Swae Lee).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - break up with your girlfriend, i'm bored.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Bad Liar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Dancing With A Stranger (with Normani).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ava Max - Sweet but Psycho.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Breakbot, Irfane - Baby I'm Yours.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - Waiting for the End.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Today Was A Fairytale.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Queen - Don't Stop Me Now - Remastered 2011.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Queen - Bohemian Rhapsody - Remastered 2011.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BTS - FAKE LOVE.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Money On My Mind.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld, DNCE - Rock Bottom.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld - Back to Life - from 'Bumblebee'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld - Love Myself.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld, Grey, Zedd - Starving.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker, AuRa, Tomine Harket - Darkside.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Don't Wanna Go Home.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Outkast - Hey Ya! - Radio Mix  Club Mix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone, Swae Lee - Sunflower - Spider-Man- Into the Spider-Verse.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Steve Aoki - Waste It On Me (feat. BTS).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa, BLACKPINK - Kiss and Make Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sean Kingston - Beautiful Girls.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid - Better.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Troye Sivan, Alessia Cara - WILD.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alessia Cara - Wild Things.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes, Zedd - Lost In Japan - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Colbie Caillat - Try.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Beyoncé - Love On Top.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Backstreet Boys - I Want It That Way.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Phillip Phillips - Home.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - thank u, next.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Skrillex - Purple Lamborghini (with Rick Ross).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maty Noyes - in my miNd.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Silk City, Diplo, Mark Ronson - Electricity (with Dua Lipa).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Disclosure, Lorde - Magnets.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Portugal. The Man - Feel It Still.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Praying.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Don't Leave Me Alone (feat. Anne-Marie).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - breathin.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Drake - God's Plan.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ghost Town DJs - My Boo - Hitman's Club Mix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Major Lazer - Light It Up (feat. Nyla & Fuse ODG) - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis, Throttle - Tell Me You Love Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Play Hard (feat. Ne-Yo & Akon) - New Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv - Chasing Fire.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Script - Breakeven.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Khaled, Justin Bieber, Quavo, Chance the Rapper - No Brainer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Baauer - Harlem Shake.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Snake - A Different Way (with Lauv).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv - There's No Way (feat. Julia Michaels).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Halsey - Without Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Troye Sivan - Dance To This (feat. Ariana Grande).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Matchbox Twenty - She's so Mean.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Bastille - Happier.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Bitch Better Have My Money.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daniel Powter - Bad Day.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Mraz - I Won't Give Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX, Troye Sivan - 1999.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix - Ocean (feat. Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/That Poppy - Lowlife.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Joakim Molitor, Cher Lloyd - 4U.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Your Type.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Cut To The Feeling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Emotion.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Tonight I’m Getting Over You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen, Justin Bieber - Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Stop And Stare.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Why Don't We - 8 Letters.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - History.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo - Stranger Things (feat. OneRepublic).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AFROJACK, Mike Taylor - SummerThing!.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - If I Lose Myself - Alesso vs OneRepublic.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld - Let Me Go (with Alesso, Florida Georgia Line & watt).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Perri - A Thousand Years.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Perri - distance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Mraz, Colbie Caillat - Lucky.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, Dakota - Fast Car.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis, Hook N Sling - Love on Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, RAYE - By Your Side.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Just Like Fire.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Sia - Light Headed.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo, David Guetta - Goodbye (feat. Nicki Minaj & Willy William).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Bebe Rexha, J Balvin - Say My Name.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Sia - Flames.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Axwell  Ingrosso, Axwell, Sebastian Ingrosso - Sun Is Shining.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/will.i.am, Miley Cyrus, French Montana, Wiz Khalifa, Mustard - Feelin' Myself.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Greyson Chance - Waiting Outside The Lines.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alesso - REMEDY.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - Slow Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - On My Mind.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nick Jonas, Tinashe - Jealous - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Owl City - Vanilla Twilight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Owl City - Shooting Star.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Destiny's Child - Say My Name.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Arthur - Say You Won't Let Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/gnash - i hate u, i love u (feat. olivia o'brien).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - When I Was Your Man.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bazzi - Beautiful (feat. Camila Cabello).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Miguel - Remind Me to Forget.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Run Away With Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jamelia - Superstar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Getaway Car.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone - Better Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Drake - In My Feelings.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/benny blanco - Eastside (with Halsey & Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - The Way I Am.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alessia Cara - Growing Pains.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, Jack & Jack - Rise.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Paperplane Pursuit - Feel Good.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Mercy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Youth (feat. Khalid).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - There's Nothing Holdin' Me Back.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Machine Gun Kelly - Bad Things (with Camila Cabello).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Pray For Me (with Kendrick Lamar).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid - Love Lies (with Normani).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5, Kendrick Lamar - Don't Wanna Know.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cheat Codes - Only You (with Little Mix).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - God is a woman.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran, Rudimental - Bloodstream.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dwayne Johnson - You're Welcome.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Elley Duhé - Happy Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fort Minor - Where'd You Go (feat. Holly Brook & Jonah Matranga).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - C'Mon.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit - Solo (feat. Demi Lovato).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Panic! At The Disco - High Hopes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady A - Need You Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - I'm a Mess.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Band Perry - If I Die Young.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv - Paris in the Rain.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/NF - Let You Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Stitches.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - Just Can’t Get Enough.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sara Bareilles - King of Anything.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fitz and The Tantrums - HandClap.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - Paris.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Anne-Marie - FRIENDS.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Anne-Marie - 2002.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Real Friends.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - Lips Are Movin.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - Same Old Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shawn Mendes - Treat You Better.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo - It Ain't Me (with Selena Gomez).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Coldplay - Something Just Like This.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - Dangerous Woman.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, Mac Miller - The Way.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, The Weeknd - Love Me Harder.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Far East Movement, Marshmello, CHANYEOL, Tinashe - Freal Luv.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - Meant to Be (feat. Florida Georgia Line).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Drake, Wizkid, Kyla - One Dance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adele - Hello.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - What About Us.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/John Legend - All of Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Little Mix - Shout Out to My Ex.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Halsey - Closer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Niall Horan - Slow Hands.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Vance Joy - Riptide.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Call Out My Name.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Drew Love - Somebody.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Girls Like You (feat. Cardi B) - Cardi B Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - The Cure.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd, Daft Punk - Starboy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Julia Michaels - Issues.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Panic! At The Disco - Hey Look Ma, I Made It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Natalie La Rose, Jeremih - Somebody.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa - IDGAF.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Look What You Made Me Do.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Thunder.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/ZAYN, Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker) - From 'Fifty Shades Darker (Original Motion Picture Soundtrack)'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/ZAYN - Let Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Naughty Boy, Sam Smith - La La La.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shakira - Whenever, Wherever.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/5 Seconds of Summer - Youngblood.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith, John Legend - Lay Me Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Stay With Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - I'm Not The Only One.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sam Smith - Too Good At Goodbyes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Wonder Girls - Nobody (Eng Ver.).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix, Dua Lipa - Scared to Be Lonely.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix, Bebe Rexha - In the Name of Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Liam Payne, J Balvin - Familiar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - Back To You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - How Long.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - One Kiss (with Dua Lipa).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - The Days.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Ooh La La (from 'The Smurfs 2').mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Delicate.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Liam Payne - For You (Fifty Shades Freed) (& Rita Ora).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker, Noah Cyrus, Digital Farm Animals - All Falls Down (feat. Juliander).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Back To December.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Louis Tomlinson - Back to You (feat. Bebe Rexha & Digital Farm Animals).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rain Man - Bring Back the Summer (feat. OLY).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Colbie Caillat - Bubbly.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon - Sorry, Blame It On Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rae Sremmurd, Gucci Mane - Black Beatles.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daya - New.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia, Kendrick Lamar - The Greatest.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello - Alone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Marshmello, Khalid - Silence.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - Attention.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Twenty One Pilots - Stressed Out.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone - Psycho (feat. Ty Dolla $ign).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone, 21 Savage - rockstar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Eyes Open.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Anna Kendrick - Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Wanted - Walks Like Rihanna.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fall Out Boy - Uma Thurman.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fall Out Boy - Thnks fr th Mmrs.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Dangerous (feat. Sam Martin).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charlie Puth - Marvin Gaye (feat. Meghan Trainor).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Foster The People - Pumped Up Kicks.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lorde - Royals.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fergie, will.i.am - Fergalicious.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gwen Stefani - Hollaback Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Archuleta - A Little Too Not Over You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Finesse - Remix; feat. Cardi B.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kendrick Lamar - All The Stars (with SZA).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem - River (feat. Ed Sheeran).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - no tears left to cry.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Levels - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Phineas and the Ferbtones - Gitchee Gitchee Goo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Nicole Scherzinger - Heartbeat.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Rock Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alessia Cara - Here.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - This Kiss.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd - Stay (with Alessia Cara).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Maren Morris, Grey - The Middle.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chaleeda - Pretty Boy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Louis Tomlinson - Miss You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Victorious Cast - Make It Shine (Victorious Theme) (feat. Victoria Justice).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miranda Cosgrove - Leave It All To Me (Theme from iCarly) (feat. Drake Bell).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miranda Cosgrove - Kissin U.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Every Teardrop Is a Waterfall.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Troye Sivan - YOUTH.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rita Ora - Your Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Your Love Is My Drug.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Aguilera - Your Body.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Khalid - Young Dumb & Broke.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/3OH!3 - YOU'RE GONNA LOVE THIS.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cobra Starship - You Make Me Feel... (feat. Sabi).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Snake, AlunaGeorge - You Know You Like It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jax Jones, RAYE - You Don't Know Me - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - You Belong With Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO - Yes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lorde - Yellow Flicker Beat - From The Hunger Games- Mockingjay Part 1.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Usher - Yeah! (feat. Lil Jon & Ludacris).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown - Yeah 3x.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tinie Tempah - Written in the Stars (feat. Eric Turner).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Wrecking Ball.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony - Worth It (feat. Kid Ink).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Time Rush - Worldwide.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony - Work from Home (feat. Ty Dolla $ign).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Work Bitch.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Oasis - Wonderwall - Remastered.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez, Marshmello - Wolves.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Without You (feat. Usher).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Without You (feat. Sandro Cavazza).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cher Lloyd - With Ur Love (feat. Mike Posner).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Wish You Were Here.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Wildest Dreams.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Wild Wild Love (feat. G.R.L.).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - Wild Ones (feat. Sia).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Wiggle (feat. Snoop Dogg).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Wide Awake.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Who's That Chick (feat. Rihanna).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez & The Scene - Who Says.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - Whistle.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Where Them Girls At (feat. Nicki Minaj & Flo Rida).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - Where Is The Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Where Have You Been.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jack Ü, Skrillex, Diplo - Where Are Ü Now (with Justin Bieber).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - When You're Gone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Whatcha Say.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adam Lambert - Whataya Want from Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, Drake - What's My Name.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mizz Nina - What You Waiting For (feat. Colby O'donis).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - What the Hell.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - What Makes You Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - What I've Done.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - What Do You Mean.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Austin Mahone - What About Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/My Chemical Romance - Welcome to the Black Parade.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Welcome To New York.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - We'll Be Coming Back (feat. Example).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Travie McCoy - We'll Be Alright.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Havana Brown, Pitbull - We Run The Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - We R Who We R.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Wanted - We Own The Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, Calvin Harris - We Found Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - We Can't Stop.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/fun. - We Are Young (feat. Janelle Monáe).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - We Are Never Ever Getting Back Together.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - The Way I Are (Dance with Somebody) (feat. Lil Wayne) - Spotify Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Wave Your Flag - Wavin' Flag.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mr. Probz - Waves - Robin Schulz Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mr. Probz - Waves.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Silentó - Watch Me (Whip  Nae Nae).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tiësto, Matthew Koma - Wasted.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cher Lloyd - Want U Back.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Want to Want Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Wake Me Up - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shakira - Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Waiting For Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Viva La Vida.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - Va Va Voom.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mark Ronson - Uptown Funk (feat. Bruno Mars).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Thirty Seconds To Mars - Up In The Air.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Tritonal, Emily Warren - Until You Were Gone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/French Montana, Swae Lee - Unforgettable.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Alesso - Under Control (feat. Hurts).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Unconditionally.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, JAY-Z - Umbrella.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - U Smile.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Boys Like Girls - Two Is Better Than One (feat. Taylor Swift).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown - Turn Up the Music.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Far East Movement, Cover Drive - Turn Up The Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Turn Me On (feat. Nicki Minaj).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Snake, Lil Jon - Turn Down for What.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shakira - Try Everything.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Try.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Trumpets.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Olly Murs - Troublemaker (feat. Flo Rida).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Treasure.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Toxic.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Little Mix - Touch.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DNCE - Toothbrush.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hot Chelle Rae - Tonight Tonight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Outasight - Tonight Is the Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Ludacris, DJ Frank E - Tonight (I'm Fuckin' You).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/GROUPLOVE - Tongue Tied.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - TKO.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Titanium (feat. Sia).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker, Gavin James - Tired.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull, Ne-Yo - Time of Our Lives.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull, Kesha - Timber (feat. Ke$ha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Till the World Ends.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - TiK ToK.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Michelle Williams - Tightrope.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Macklemore & Ryan Lewis - Thrift Shop (feat. Wanz).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - This Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Rihanna - This Is What You Came For.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Armin van Buuren, Trevor Guthrie - This Is What It Feels Like.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - This Is How We Do.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/will.i.am, Justin Bieber - #thatPOWER.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - That's What I Like.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony - That's My Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - That Should Be Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/MKTO - Thank You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AFROJACK, Wrabel - Ten Feet Tall.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga, Beyoncé - Telephone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Teenage Dream.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Teardrops On My Guitar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Twenty One Pilots - Tear in My Heart.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lorde - Team.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jordin Sparks - Tattoo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tove Lo - Talking Body.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Talk Dirty (feat. 2 Chainz).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lawson - Taking Over Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Ciara - Takin' Back My Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mizz Nina - Takeover (feat. Flo Rida).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cash Cash - Take Me Home (feat. Bebe Rexha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Take It Off.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Take A Bow.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit - Symphony (feat. Zara Larsson).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry, Nicki Minaj - Swish Swish.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Sweet Nothing (feat. Florence Welch).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Neighbourhood - Sweater Weather.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Swalla (feat. Nicki Minaj & Ty Dolla $ign).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cash Cash - Surrender.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Script - Superheroes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - Super Bass.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lana Del Rey - Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Summer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Sugar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Style.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Stronger (What Doesn't Kill You).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Liam Payne, Quavo - Strip That Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Story of My Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Paramore - Still into You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/ZAYN - Still Got Time (feat. PARTYNEXTDOOR).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Steal My Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd - Stay The Night - Featuring Hayley Williams Of Paramore.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, Mikky Ekko - Stay.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - Starships.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Muse - Starlight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Justin Jesso - Stargazing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lawson - Standing In The Dark.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rachel Platten - Stand By You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Matthew Koma - Spectrum.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO - Sorry For Party Rocking.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Sorry.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Audien, Lady A - Something Better.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adele - Someone Like You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Somebody To Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gotye, Kimbra - Somebody That I Used To Know.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/fun. - Some Nights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iyaz - Solo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - So What.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - So Sick.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - So Good.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix, David Guetta - So Far Away (feat. Jamie Scott & Romy Dya).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Smile.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon, Eminem - Smack That.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Funk Wav - Slide (feat. Frank Ocean & Migos).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony - Sledgehammer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Skyscraper.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - A Sky Full of Stars.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daya - Sit Still, Look Pretty.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Since U Been Gone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, Nicki Minaj - Side To Side.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Shut Up And Drive.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/WALK THE MOON - Shut Up and Dance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Becky G - Shower.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lenka - The Show.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO, Lil Jon - Shots.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tal Bachman - She's so High.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - She Wolf (Falling to Pieces) [feat. Sia].mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - She Will Be Loved.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/5 Seconds of Summer - She Looks So Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo, Juicy J - She Knows.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Shape of You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Shake It Off.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - Sexy Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Sexy Bitch (feat. Akon).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO - Sexy And I Know It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, XYLØ - Setting Fires.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adele - Set Fire to the Rain.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - #SELFIE.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Wiz Khalifa - See You Again (feat. Charlie Puth).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Secrets.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Little Mix - Secret Love Song (feat. Jason Derulo).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/will.i.am, Britney Spears - Scream & Shout.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Usher - Scream.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alessia Cara - Scars To Your Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Austin Mahone - Say You're Just a Friend (feat. Flo Rida).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/A Great Big World, Christina Aguilera - Say Something.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Swedish House Mafia - Save The World.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Capital Cities - Safe And Sound.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift, The Civil Wars - Safe & Sound - from The Hunger Games Soundtrack.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - S&M.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis - Runaway (U & I).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/MAGIC! - Rude.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, ROZES - Roses.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adele - Rolling in the Deep.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ayo & Teo - Rolex.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Far East Movement, Ryan Tedder, Ruff Loaderz - Rocketeer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Rock N Roll.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Roar.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicole Scherzinger - Right There.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida, Kesha - Right Round (feat. Ke$ha).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon - Right Now (Na Na Na).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Ridin' Solo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Twenty One Pilots - Ride.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zac Efron, Zendaya - Rewrite The Stars.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iyaz - Replay.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tiësto - Red Lights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Red.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hoobastank - The Reason.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato, Cher Lloyd - Really Don't Care.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit - Rather Be (feat. Jess Glynne).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem - Rap God.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Raise Your Glass.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Rain Over Me (feat. Marc Anthony).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Radioactive.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rita Ora - R.I.P. (feat. Tinie Tempah).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charice - Pyramid (feat. Iyaz).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, Iggy Azalea - Problem.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/MARINA - Primadonna.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J, B.o.B - Price Tag.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iyaz - Pretty Girls (feat. Travie McCoy).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears, Iggy Azalea - Pretty Girls.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cody Simpson - Pretty Brown Eyes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Pray to God (feat. HAIM).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Pray.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - Pound The Alarm.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bastille - Pompeii.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Poker Face.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/ZAYN - PILLOWTALK.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, JP Cooper - Perfect Strangers.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis - Peanut Butter Jelly.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Peacock.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5, Wiz Khalifa - Payphone.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO, Lauren Bennett, GoonRock - Party Rock Anthem.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Miley Cyrus - Party In The U.S.A..mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Part Of Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Paradise.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Paparazzi.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Desiigner - Panda.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Outside (feat. Ellie Goulding).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Out Of The Woods.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hugh Jackman, Zac Efron - The Other Side.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - The Other Side.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Oops!...I Did It Again.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Only Girl (In The World).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - One Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - One Thing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - The One That Got Away.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daft Punk - One More Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - One More Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - One Less Lonely Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - One Last Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - On Top Of The World.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jennifer Lopez, Pitbull - On The Floor.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Usher, will.i.am - OMG.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - Numb.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Script - Nothing.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - Nothin' on You (feat. Bruno Mars).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/I'm Not Afraid - Not Afraid.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J - Nobody's Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cheat Codes - No Promises (feat. Demi Lovato).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alicia Keys - No One.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Galantis - No Money.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - No Control.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jordin Sparks - No Air (feat. Chris Brown).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - The Nights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - The Night Is Still Young.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Redfoo - New Thang.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dua Lipa - New Rules.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - New Romantics.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - New Divide.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Jaden - Never Say Never.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Never Gonna Leave This Bed.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Never Give Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zara Larsson, MNEK - Never Forget You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Loren Allred - Never Enough.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cobra Starship - Never Been in Love (feat. Icona Pop).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Neon Lights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - My Way.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - My Life Would Suck Without You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - My Happy Ending.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alexandra Stan - Mr. Saxobeat - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5, Christina Aguilera - Moves Like Jagger - Studio Recording From 'The Voice' Performance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - Miss Independent.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Misery.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - Mirrors - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bazzi - Mine.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Mine.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chaleeda - Mind Over Matter.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Otto Knows - Million Voices - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ziv Zaifman, Hugh Jackman, Michelle Williams - A Million Dreams.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Vamps, Martin Jensen - Middle Of The Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Snake, Bipolar Sunshine - Middle.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - Meet Me Halfway.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Mean.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy, Bebe Rexha - Me, Myself & I.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rixton - Me And My Broken Heart.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J - Masterpiece.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Marry You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Marry Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Maps.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Shaq - Man's Not Hot.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Script - The Man Who Can't Be Moved.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jonas Blue, William Singe - Mama.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - Magic (feat. Rivers Cuomo).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Magic.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zara Larsson - Lush Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - Low (feat. T-Pain).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Lovers on the Sun (feat. Sam Martin).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - LoveGame.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Love Yourself.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez & The Scene - Love You Like A Love Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Skylar Grey - Love The Way You Lie - Part III (Original Demo).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna, Eminem - Love The Way You Lie (Part II) - Pt. 2.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Eminem, Rihanna - Love The Way You Lie.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Love Story.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sara Bareilles - Love Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Love Somebody.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Love Runs Out.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Love Me Like You Do - From 'Fifty Shades Of Grey'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Ready Set - Love Like Woe.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Boys Like Girls - Love Drunk.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Lonely Together (feat. Rita Ora).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon - Lonely.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Locked out of Heaven.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/R. City - Locked Away (feat. Adam Levine).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Live While We're Young.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Far East Movement, Justin Bieber - Live My Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Krewella - Live for the Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Of Monsters and Men - Little Talks.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Little Bad Girl (feat. Taio Cruz & Ludacris).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Far East Movement, The Cataracs, DEV - Like A G6.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Lights - Single Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bad Meets Evil, Bruno Mars - Lighters.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Let's Go (feat. Ne-Yo).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - Let Me Love You (Until You Learn To Love Yourself).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Snake, Justin Bieber - Let Me Love You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Major Lazer - Lean On (feat. MØ & DJ Snake).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - The Lazy Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rudimental - Lay It All on Me (feat. Ed Sheeran).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Disclosure, Sam Smith - Latch.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Last Friday Night (T.G.I.F.).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J, David Guetta - LaserLight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO - La La La.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Major Lazer - Know No Better (feat. Travis Scott, Camila Cabello & Quavo).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Kiss You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - Kill Em With Kindness.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Keep Holding On.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, sirenXX - Kanye.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Just the Way You Are.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Steve Aoki, Louis Tomlinson - Just Hold On.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Just Give Me a Reason (feat. Nate Ruess).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga, Colby O'Donis - Just Dance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nelly - Just A Dream - Main.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Simple Plan - Jet Lag (feat. Natasha Bedingfield).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Perri - Jar of Hearts.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/A.R. Rahman, The Pussycat Dolls, Nicole Scherzinger - Jai Ho! (You Are My Destiny).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - It's Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - It Will Rain.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - It Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - Iridescent.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Machine Gun Kelly, Ester Dean - Invincible.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - Into You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - International Love (feat. Chris Brown).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - In the End.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DEV - In The Dark.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - In My Head.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shontelle - Impossible - Main.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fall Out Boy - Immortals.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Timbaland - If We Ever Meet Again (Featuring Katy Perry).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - If I Lose Myself.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adam Lambert - If I Had You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Mraz - I'm Yours.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DJ Khaled - I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jennifer Lopez, Lil Wayne - I'm Into You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/AronChupa, Little Sis Nora - I'm an Albatraoz.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - I'll Show You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rita Ora - I Will Never Let You Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Selena Gomez - I Want You To Know.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon, Snoop Dogg - I Wanna Love You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - I Wanna Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mike Posner - I Took A Pill In Ibiza - Seeb Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - I Really Like You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - I Need Your Love (feat. Ellie Goulding).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Clean Bandit - I Miss You (feat. Julia Michaels).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Icona Pop - I Love It (feat. Charli XCX).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - I Lived.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lauv - I Like Me Better.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hot Chelle Rae - I Like It Like That (feat. New Boyz).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Pitbull - I Like It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - I Knew You Were Trouble.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - I Kissed A Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Lonely Island, Akon - I Just Had Sex.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - I Gotta Feeling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bebe Rexha - I Got You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd, Daft Punk - I Feel It Coming.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - I Cry.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - I Can Only Imagine (feat. Chris Brown & Lil Wayne).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Hymn for the Weekend.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kendrick Lamar - HUMBLE..mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Perri - human.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rita Ora - How We Do (Party).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Fray - How to Save a Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Disciples - How Deep Is Your Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Drake - Hotline Bling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Hotel Room Service.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Hot N Cold.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hot Chelle Rae - Honestly.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez & The Scene - Hit The Lights.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shakira - Hips Don't Lie (feat. Wyclef Jean).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy - Him & I (with Halsey).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - The Hills.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taio Cruz, Kylie Minogue - Higher.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Train - Hey, Soul Sister.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Plain White T's - Hey There Delilah - Bonus Track.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avicii - Hey Brother.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Hey Baby (Drop It to the Floor) (feat. T-Pain).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alesso, Tove Lo - Heroes (we could be).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Here's to Never Growing Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Hello Kitty.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Karmin - Hello.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Helium (Sia vs. David Guetta & Afrojack).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Boys Like Girls - Heels Over Head - Original Mix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - Heavy (feat. Kiiara).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Twenty One Pilots - Heathens.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Heartbeat Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - The Heart Wants What It Wants.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Heart Attack.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Havana (feat. Young Thug).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pharrell Williams - Happy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taio Cruz, Flo Rida - Hangover.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/James Newton Howard, Jennifer Lawrence - The Hanging Tree.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Beyoncé - Halo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Script - Hall of Fame (feat. will.i.am).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tove Lo - Habits (Stay High).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Grenade.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Greenlight (feat. Flo Rida & LunchMoney Lewis).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble - The Greatest Show.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Boys Like Girls - The Great Escape.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sean Paul - Got 2 Luv U (feat. Alexis Jordan).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Gorgeous.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Owl City, Carly Rae Jepsen - Good Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/G-Eazy - Good Life (with G-Eazy & Kehlani).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Good Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bastille - Good Grief - Don Diablo Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cobra Starship - Good Girls Go Bad (feat. Leighton Meester).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez, A$AP Rocky - Good For You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - Good Feeling.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fergie, Ludacris - Glamorous.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Wanted - Glad You Came.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Give Your Heart A Break.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Give Me Everything (feat. Ne-Yo, Afrojack & Nayer).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Madonna, Nicki Minaj, M.I.A. - Give Me All Your Luvin'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Girlfriend.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alicia Keys - Girl On Fire (feat. Nicki Minaj) - Inferno Version.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alicia Keys - Girl on Fire.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adam Lambert - Ghost Town.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Daft Punk - Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers].mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd - Get Low (with Liam Payne).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dillon Francis, DJ Snake - Get Low.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sheppard - Geronimo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/PSY - Gentleman.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - GDFR (feat. Sage the Gemini & Lookas).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/PSY - Gangnam Style (강남스타일).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Galway Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lily Allen - Fuck You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Friends (with BloodPop®).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ylvis - The Fox (What Does the Fox Say).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Drake, Kanye West, Lil Wayne, Eminem - Forever.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande - Focus.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J - Flashlight - From 'Pitch Perfect 2' Soundtrack.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Coldplay - Fix You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Deorro, Chris Brown - Five More Hours.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kygo, Ellie Goulding - First Time.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Firework.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Owl City - Fireflies.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Sammy Adams - Finally Found You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gym Class Heroes - The Fighter (feat. Ryan Tedder).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rachel Platten - Fight Song.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris, Funk Wav - Feels (feat. Pharrell Williams, Katy Perry & Big Sean).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Feelings.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Feel This Moment (feat. Christina Aguilera).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Feel So Close - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BIGBANG - Fantastic Baby.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iggy Azalea, Charli XCX - Fancy.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker - Faded (Restrung).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Alan Walker - Faded.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Fkin' Perfect.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/CeeLo Green - Fuck You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Elle King - Ex's & Oh's.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift, Ed Sheeran - Everything Has Changed.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Neon Trees - Everybody Talks.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers - Everybody Hates Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Elastic Heart.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Sean Kingston - Eenie Meenie.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - The Edge Of Glory.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fatboy Slim - Eat, Sleep, Rave, Repeat (feat. Beardyman) - Calvin Harris Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fatboy Slim, Riva Starr - Eat Sleep Rave Repeat (feat. Beardyman).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Grandtheft, Delaney Jane - Easy Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry, Kanye West - E.T..mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taio Cruz - Dynamite.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/ZAYN - Dusk Till Dawn (feat. Sia) - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Train - Drive By.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Drag Me Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Grandmaster Melle Mel - Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony, Gucci Mane - Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jay Sean, Lil Wayne - Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/3OH!3 - DONTTRUSTME.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Swedish House Mafia, John Martin - Don't You Worry Child - Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown - Don't Wake Me Up.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Don't Stop the Party (feat. TJR).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Don't Stop The Music.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon - Don't Matter.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Martin Garrix - Don't Look Down (feat. Usher).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Chainsmokers, Daya - Don't Let Me Down.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicole Scherzinger - Don't Hold Your Breath.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - Don’t Stop The Party.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J - Domino.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Usher, Pitbull - DJ Got Us Fallin' In Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, AFROJACK - Dirty Sexy Money (feat. Charli XCX & French Montana).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Enrique Iglesias, Usher - Dirty Dancer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Die Young.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tino Coury - Diary.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Diamonds.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Dawin, Silentó - Dessert - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Luis Fonsi, Daddy Yankee, Justin Bieber - Despacito - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Demons.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - Dear Future Husband.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Daylight.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry, Juicy J - Dark Horse.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Don Omar, Lucenzo - Danza Kuduro.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kardinal Offishall, Akon - Dangerous.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jennifer Lopez, Pitbull - Dance Again.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/PSY, CL - DADDY.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Camila Cabello - Crying in the Club.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Britney Spears - Criminal.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Crazy Kids.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - Counting Stars.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - Count on Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Echosmith - Cool Kids.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tove Lo - Cool Girl.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Cool for the Summer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Post Malone, Quavo - Congratulations.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Demi Lovato - Confident.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Avril Lavigne - Complicated.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Company.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Skylar Grey - Coming Home - Part II.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Diddy - Dirty Money, Skylar Grey - Coming Home.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Selena Gomez - Come & Get It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Major Lazer - Cold Water (feat. Justin Bieber & MØ).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5, Future - Cold.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/O.T. Genasis - CoCo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Flo Rida - Club Can't Handle Me (feat. David Guetta).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nick Jonas, Tove Lo - Close.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jidenna - Classic Man (feat. Kendrick Lamar) - Remix.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Foxes - Clarity.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jason Derulo - Cheyenne.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OMI - Cheerleader - Felix Jaehn Remix Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Cheap Thrills.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Wanted - Chasing The Sun.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sia - Chandelier.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/LMFAO, Natalia Kills - Champagne Showers.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nick Jonas - Chains.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry, Skip Marley - Chained To The Rhythm.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fall Out Boy - Centuries.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - Castle on the Hill.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - CASTLE OF GLASS.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/fun. - Carry On.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/FRENSHIP, Emily Warren - Capsize.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Hailee Steinfeld, BloodPop® - Capital Letters.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Timberlake - CAN'T STOP THE FEELING! (from DreamWorks Animation's 'TROLLS').mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Macklemore & Ryan Lewis, Macklemore, Ryan Lewis - Can't Hold Us (feat. Ray Dalton).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Weeknd - Can't Feel My Face.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Carly Rae Jepsen - Call Me Maybe.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry, Snoop Dogg - California Gurls.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DNCE - Cake By The Ocean.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Skylar Grey, Eminem - C’mon Let Me Ride.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Linkin Park - BURN IT DOWN.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Burn.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Karmin - Brokenhearted.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/DRAM - Broccoli (feat. Lil Yachty).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Breakaway.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taio Cruz - Break Your Heart.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX - Break the Rules.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, Zedd - Break Free.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Sara Bareilles - Brave.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX - Boys.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Time Rush - Boyfriend.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber - Boyfriend.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Green Day - Boulevard of Broken Dreams.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - Both of Us (feat. Taylor Swift).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Born This Way.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX - Boom Clap.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Black Eyed Peas - Boom Boom Pow.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/P!nk - Blow Me (One Last Kiss).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha - Blow.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Blank Space.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Calvin Harris - Blame (feat. John Newman).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kesha, 3OH!3 - Blah Blah Blah.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iggy Azalea, Rita Ora - Black Widow.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Rihanna - Birthday Cake.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Katy Perry - Birthday.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Travie McCoy - Billionaire (feat. Bruno Mars).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Time Rush - Big Time Rush.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - Better When I'm Dancin'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/One Direction - Best Song Ever.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/BTS - Best Of Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/American Authors - Best Day Of My Life.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Imagine Dragons - Believer.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Behind These Hazel Eyes.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Iggy Azalea, MØ - Beg For It.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Liam Payne - Bedroom Floor.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Kelly Clarkson - Because of You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ariana Grande, John Legend - Beauty and the Beast.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Nicki Minaj - Beauty And A Beat.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zedd, Jon Bellion - Beautiful Now.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ne-Yo - Beautiful Monster.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Christina Aguilera - Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Akon, Colby O'Donis, Kardinal Offishall - Beautiful.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Boys Like Girls - Be Your Everything.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lupe Fiasco - Battle Scars (with Guy Sebastian).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta - Bang My Head (feat. Sia & Fetty Wap).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jessie J, Ariana Grande, Nicki Minaj - Bang Bang.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Bad Romance.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - Bad Blood.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Halsey - Bad At Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Pitbull - Back in Time - featured in 'Men In Black 3'.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Ludacris - Baby.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Chris Brown, Tyga - Ayo.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Gym Class Heroes - Ass Back Home (feat. Neon Hitch).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Big Sean - As Long As You Love Me.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fences - Arrows (feat. Macklemore & Ryan Lewis).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mizz Nina - Around the World (feat. Jay Park).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Applause.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Timbaland, OneRepublic - Apologize.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ellie Goulding - Anything Could Happen.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Armin van Buuren, Mr. Probz - Another You.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Tom Odell - Another Love.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Adam Lambert - Another Lonely Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Maroon 5 - Animals.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nicki Minaj - Anaconda.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Nico & Vinz - Am I Wrong.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Mariah Carey - Almost Home.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Jon Bellion - All Time Low.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/blink-182 - All The Small Things.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/OneRepublic - All The Right Moves.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Smash Mouth - All Star.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/The Vamps, Matoma - All Night.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Cash Cash - All My Love (feat. Conor Maynard).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Fifth Harmony - All In My Head (Flex) (feat. Fetty Wap).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Justin Bieber, Ludacris - All Around The World.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Meghan Trainor - All About That Bass.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Krewella - Alive.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lady Gaga - Alejandro.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/B.o.B - Airplanes (feat. Hayley Williams of Paramore).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Zara Larsson - Ain't My Fault.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Paramore - Ain't It Fun.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Charli XCX - After the Afterparty (feat. Lil Yachty).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Ed Sheeran - The A Team.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Train - 50 Ways to Say Goodbye.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Big Time Rush - 24Seven.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Bruno Mars - 24K Magic.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Taylor Swift - 22.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Green Day - 21 Guns (feat. Rebecca Naomi Jones, Christina Sajous, Mary Faber, Stark Sands, John Gallagher Jr., Michael Esper, The American Idiot Broadway Company).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/David Guetta, Justin Bieber - 2U.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Beyoncé - Run the World (Girls).mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Robin Thicke, T.I., Pharrell Williams - Blurred Lines.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Aloe Blacc - The Man.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Passenger - Let Her Go.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Lilly Wood and The Prick - Prayer in C - Robin Schulz Radio Edit.mp3
+/Users/rahul/classes/cs4701/get_tracks/normal_songs/Shakira, Rihanna - Can't Remember to Forget You.mp3
