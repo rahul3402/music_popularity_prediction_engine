@@ -2,6 +2,8 @@
 
 ## Trained convolutional neural networks with spectrograms extracted from songs to predict popularity metrics across Youtube and Spotify for new songs
 
+## How does it work?
+
 - Make sure you have all the necessary libraries installed in song_cnn.py
 
 - Ensure you have all the necessary binary files for the train, test, and 
@@ -21,5 +23,5 @@ only a single song.
 
 - Ensure you have a desired mp3 file this same directory. Put the name of the file in Line 316.
 
-- run the code! simply type "python3 song_cnn.py" or "python song_cnn.py" into
+- Run the code! simply type "python3 song_cnn.py" or "python song_cnn.py" into
 the terminal. The results will be neatly printed for you after the models finish training.
